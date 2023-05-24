@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">http_app</string>
+    <string name="desc">Вставьте URL адрес:</string>
+</resources>
